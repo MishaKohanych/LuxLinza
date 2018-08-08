@@ -407,6 +407,7 @@ header {
 	width:100%;
 	height:70px;
 	margin:0 auto;
+	box-sizing: border-box;
 }
 .mobile_heder {
 	display:none;
@@ -416,7 +417,7 @@ header {
 	vertical-align: middle;
 }
 .mobile_heder .mobile_logo_heder {
-	height:45px;
+	height:40px;
 	text-align:center;
 	vertical-align: middle;
 }
