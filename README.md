@@ -1,4 +1,10 @@
-# test_for_html-LuxLinza
-Test for Front-end
+# LuxLinza
 
-![Макет проекту](http://mishakokhanych.com/layout/test_for_html-LuxLinza/test_for_html-LuxLinza.jpg)
+Test for Front-end
+Used:
+	- HTML
+	- CSS
+	- JQuery
+	- slick.js
+
+Demo: http://htmlpreview.github.io/?https://github.com/MishaKohanych/LuxLinza/blob/master/index.html
